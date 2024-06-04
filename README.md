@@ -14,7 +14,7 @@ link do site: https://academia-frango.vercel.app/
 Prints do site:
 
 
-![App Screenshot]([https://imgur.com/a/h1yVlDd]https://imgur.com/8QUgOEY)
+![App Screenshot][Imgur](https://imgur.com/8QUgOEY)
 
 ![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://imgur.com/8QUgOEY))
 
